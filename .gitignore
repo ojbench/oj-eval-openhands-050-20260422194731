@@ -1,0 +1,9 @@
+# Ignore build artifacts
+run_local
+*.o
+*.out
+*.exe
+
+# Python cache
+__pycache__/
+
